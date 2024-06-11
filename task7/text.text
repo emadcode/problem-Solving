@@ -1,0 +1,9 @@
+    You have an array containing unsorted integers.
+    Write a JavaScript function to find the second largest element in this array. 
+    The function should meet the following conditions:
+
+        Do not use any built-in sorting functions like sort().
+        The time complexity of the operation should be O(n).
+        The function should return null if the array contains fewer than two distinct elements.
+
+    Can you write this function?
